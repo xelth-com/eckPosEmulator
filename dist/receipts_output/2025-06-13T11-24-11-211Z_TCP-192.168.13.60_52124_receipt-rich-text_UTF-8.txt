@@ -1,0 +1,42 @@
+<Select Code Table (n=19)>
+
+
+
+
+
+<Invert Off>
+<Set Print Mode (n=0x30)>
+TISCH: #9               
+
+
+<Invert Off>
+<Set Print Mode (n=0x20)>
+      * GETRÄNKE *      
+
+
+<Invert Off>
+<Set Print Mode (n=0x0)>
+------------------------------------------------
+
+<Invert Off>
+<Set Print Mode (n=0x30)>
+1 x 
+<Invert Off>
+<Set Print Mode (n=0x0)>
+7,80 
+
+<Invert Off>
+<Set Print Mode (n=0x30)>
+Flipper 
+<Invert Off>
+<Set Print Mode (n=0x0)>
+                           7,80 
+------------------------------------------------
+13:24 13.06.2025 98 PGM                       46
+Kasse #1                                        
+
+
+
+
+
+<Partial Cut> (with param 0xa)

@@ -1,17 +1,43 @@
 {
-  "name": "eckposemulator",
+  "name": "eckpos-emulator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "eckPOS Network Printer Emulator by XETRON",
+  "main": "emulator.js",
+  "bin": {
+    "eckpos-emulator": "emulator.js"
+  },
   "scripts": {
-    "start": "node emulator.js",  
+    "start": "node emulator.js",
+    "build": "pkg . --targets node18-win-x64 --output dist/eckPos-emulator.exe",
+    "build-all": "pkg . --targets node18-win-x64,node18-linux-x64,node18-macos-x64 --output dist/eckPos-emulator",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "eckpos",
+    "escpos",
+    "emulator",
+    "xetron",
+    "printer",
+    "eckWms",
+    "xelth_com"
+  ],
+  "author": "xelth.com",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "iconv-lite": "^0.6.3"
+    "iconv-lite": "^0.6.3",
+    "serialport": "^13.0.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/@serialport/bindings-cpp/prebuilds/**/*"
+    ],
+    "targets": [
+      "node18-win-x64"
+    ],
+    "compress": "GZip"
   }
 }

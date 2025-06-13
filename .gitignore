@@ -4,6 +4,8 @@
 # Output files from the emulator
 /receipts_output/
 
+Setup_com0com_v3.0.0.0_W7_x64_signed.exe
+
 # Log files
 logs
 *.log

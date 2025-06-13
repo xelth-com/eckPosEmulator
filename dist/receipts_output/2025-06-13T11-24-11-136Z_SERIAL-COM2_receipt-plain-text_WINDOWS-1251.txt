@@ -1,0 +1,22 @@
+TISCH: #9            
+------------------------------------------
+1 x 7,80
+Flipper                             7,80 A
+------------------------------------------
+Total       7,80 EUR
+Umsatz 19% exkl.          6,55 EUR       A
+MwSt 19%                  1,25 EUR       A
+BAR                             7,80 EUR
+------------------------------------------
+Sequenznummer: 87
+Datum und Zeit: 13.06.2025 13:24:10
+Umsatz Bruttoumsatz
+Kassen Seriennummer: 13087202
+------------------------------------------
+=                                         
+13:24  13.06.2025  PGM  Rg.-Nr.: 42       
+------------------------------------------
+-                                         
+       Vielen Dank f?r Ihren Besuch.      
+              St. -Nr.: I.G               
+ (with param 0xa)

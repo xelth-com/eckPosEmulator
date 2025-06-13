@@ -1,0 +1,62 @@
+<Select Code Table (n=19)>
+<Align Center>
+<Print NV Bit Image (mode=48)>
+<Align Left>
+
+<Invert Off>
+<Set Print Mode (n=0x20)>
+                     
+
+<Invert Off>
+<Set Print Mode (n=0x0)>
+                                          
+                                          
+                                          
+
+<Invert Off>
+<Set Print Mode (n=0x20)>
+TISCH: #9            
+
+
+<Invert Off>
+<Set Print Mode (n=0x0)>
+------------------------------------------
+1 x 7,80
+Flipper                             7,80 A
+------------------------------------------
+
+<Invert Off>
+<Set Print Mode (n=0x20)>
+Total       7,80 EUR
+<Invert Off>
+<Set Print Mode (n=0x0)>
+  
+Umsatz 19% exkl.          6,55 EUR       A
+MwSt 19%                  1,25 EUR       A
+
+<Invert Off>
+<Set Print Mode (n=0x8)>
+BAR                             7,80 EUR
+<Invert Off>
+<Set Print Mode (n=0x0)>
+  
+------------------------------------------
+Sequenznummer: 89
+Datum und Zeit: 13.06.2025 13:24:54
+Umsatz Bruttoumsatz
+Kassen Seriennummer: 13087202
+------------------------------------------
+=                                         
+13:24  13.06.2025  PGM  Rg.-Nr.: 43       
+------------------------------------------
+-                                         
+       Vielen Dank für Ihren Besuch.      
+              St. -Nr.: I.G               
+                                          
+
+
+
+
+
+
+<Partial Cut> (with param 0xa)
